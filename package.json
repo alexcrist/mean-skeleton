@@ -1,0 +1,27 @@
+{
+  "name": "mean-skeleton",
+  "version": "1.0.0",
+  "description": "A basic skeleton for MEAN stack projects.",
+  "main": "serverApp.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "superisor --watch . --ignore ./public ./serverApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcrist/mean-skeleton.git"
+  },
+  "keywords": [],
+  "author": "alexcrist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexcrist/mean-skeleton/issues"
+  },
+  "homepage": "https://github.com/alexcrist/mean-skeleton#readme"
+}
