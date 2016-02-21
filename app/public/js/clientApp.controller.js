@@ -6,4 +6,4 @@
     }
 
     angular.module('clientApp').controller('ClientAppController', ClientAppController);
-})
+})();
