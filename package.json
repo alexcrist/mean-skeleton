@@ -10,9 +10,7 @@
     "underscore": "^1.8.3"
   },
   "devDependencies": {},
-  "scripts": {
-    "start": "superisor --watch . --ignore ./public ./serverApp.js"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alexcrist/mean-skeleton.git"
