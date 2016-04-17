@@ -10,7 +10,9 @@
     "underscore": "^1.8.3"
   },
   "devDependencies": {},
-  "scripts": {},
+  "scripts": {
+    "start": "nodemon ./app/serverApp.js --ignore ./app/public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alexcrist/mean-skeleton.git"

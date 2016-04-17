@@ -1,5 +1,5 @@
 (function() {
     'use strict';
 
-    angular.module('clientApp', []).run();
+    angular.module('clientApp', ['main']).run();
 })();
